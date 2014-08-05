@@ -457,6 +457,7 @@
 				7CD577C0198FE91000664C69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7CD577C1198FE91000664C69 /* Build configuration list for PBXNativeTarget "PressureConverterTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				7CD577C3198FE91000664C69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

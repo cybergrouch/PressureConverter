@@ -1,0 +1,36 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BSw-zH-OYx"; */
+"BSw-zH-OYx.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Middle PSI"; ObjectID = "Hrp-ha-wld"; */
+"Hrp-ha-wld.text" = "Middle PSI";
+
+/* Class = "IBUILabel"; text = "Upper PSI"; ObjectID = "NTc-Jv-eCu"; */
+"NTc-Jv-eCu.text" = "Upper PSI";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Ovt-Zs-023"; */
+"Ovt-Zs-023.text" = "Label";
+
+/* Class = "IBUILabel"; text = "to"; ObjectID = "apd-Bt-FKQ"; */
+"apd-Bt-FKQ.text" = "to";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "cO9-15-NSl"; */
+"cO9-15-NSl.text" = "Label";
+
+/* Class = "IBUITextField"; accessibilityHint = "Lower Bound"; ObjectID = "eho-Nu-0af"; */
+"eho-Nu-0af.accessibilityHint" = "Lower Bound";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Lower Bound"; ObjectID = "eho-Nu-0af"; */
+"eho-Nu-0af.accessibilityLabel" = "Lower Bound";
+
+/* Class = "IBUILabel"; text = "Lower PSI"; ObjectID = "hqJ-nq-VIX"; */
+"hqJ-nq-VIX.text" = "Lower PSI";
+
+/* Class = "IBUILabel"; text = "kgf/cm2 to psi"; ObjectID = "jBI-yX-V5b"; */
+"jBI-yX-V5b.text" = "kgf/cm2 to psi";
+
+/* Class = "IBUITextField"; accessibilityHint = "Upper Bound"; ObjectID = "tDE-ab-ox9"; */
+"tDE-ab-ox9.accessibilityHint" = "Upper Bound";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Upper Bound"; ObjectID = "tDE-ab-ox9"; */
+"tDE-ab-ox9.accessibilityLabel" = "Upper Bound";
