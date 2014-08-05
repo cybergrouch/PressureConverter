@@ -10,4 +10,14 @@
 
 @interface LPViewController : UIViewController
 
+- (IBAction)txtChangedUpperBound:(UITextField *)sender forEvent:(UIEvent *)event;
+
+- (IBAction)txtChangedLowerBound:(UITextField *)sender forEvent:(UIEvent *)event;
+
+@property (weak, nonatomic) IBOutlet UILabel *lblLowerPSI;
+@property (weak, nonatomic) IBOutlet UILabel *lblMiddlePSI;
+@property (weak, nonatomic) IBOutlet UILabel *lblUpperPSI;
+@property (weak, nonatomic) IBOutlet UITextField *txtLowerBound;
+@property (weak, nonatomic) IBOutlet UITextField *txtUpperBound;
+
 @end
