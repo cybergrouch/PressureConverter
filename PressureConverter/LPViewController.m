@@ -22,9 +22,19 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+     UITapGestureRecognizer *tapRecognizer =[[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(tap:)];
+    
+    [self.view addGestureRecognizer:tapRecognizer];
+    
     [self parseAndConvert];
     NSLog(@"Loaded");
 	// Do any additional setup after loading the view, typically from a nib.
+}
+
+-(void)tap:(UIGestureRecognizer *)gr
+{
+    [self.view endEditing:YES];
 }
 
 - (void)didReceiveMemoryWarning
